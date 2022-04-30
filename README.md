@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Phillip Rhoy Albores</h1>
+<img align="right" alt="img" src="https://github.com/philrhoy/philrhoy/blob/main/Hi.png"  />
 <h3 align="center">A passionate Software Developer / Freelancer from Davao City, Philippines</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=philrhoy&label=Profile%20views&color=06ea3f&style=flat" alt="philrhoy" /> </p>
 
 - 📫 How to reach me **alboresphilliprhoy@gmail.com**
 
