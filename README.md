@@ -1,5 +1,5 @@
 <img align="right" alt="img" src="https://github.com/philrhoy/philrhoy/blob/main/Hi.png" style="max-width: 100%;" />
-<h3 align="center">A passionate Acumatica Developer / PHP Fulltack Developer from Davao City, PH</h3>
+<h3 align="center">A passionate Acumatica Developer / PHP Fullstack Developer from Davao City, PH</h3>
 
 
 - 📫 How to reach me **alboresphilliprhoy@gmail.com**
